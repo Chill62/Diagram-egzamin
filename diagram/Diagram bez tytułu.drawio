@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Strona-1" id="DCmV9VpIvqvDPdrRvZnc">
-    <mxGraphModel dx="655" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -359,15 +359,162 @@
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-137" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1329.83" y="2450" as="targetPoint" />
+            <mxPoint x="1330" y="2450" as="targetPoint" />
             <mxPoint x="1329.83" y="2360" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="1330" y="2400" />
               <mxPoint x="1329.83" y="2430" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-138" value="Czy przycisk zapisz &lt;br&gt;został wciśnięty?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1187.5" y="2090" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-140" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="2510" as="sourcePoint" />
+            <mxPoint x="1330" y="2590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-141" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1290" y="2590" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-142" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1290" y="2630" as="targetPoint" />
+            <mxPoint x="1170" y="2630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-143" value="Nie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2590" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-144" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="2630" as="targetPoint" />
+            <mxPoint x="1370" y="2630" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-145" value="Tak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="2590" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-146" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="2630" as="sourcePoint" />
+            <mxPoint x="1170" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-147" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1489.8" y="2630" as="sourcePoint" />
+            <mxPoint x="1489.8" y="2730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-148" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbberH21_pREZGGYshuY-153">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1169.71" y="2850" as="targetPoint" />
+            <mxPoint x="1169.71" y="2790" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-149" value="Dodanie nowych danych do bazy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-150" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="2880" as="targetPoint" />
+            <mxPoint x="1489.83" y="2790" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1490" y="2830" />
+              <mxPoint x="1489.83" y="2860" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-151" value="Czy użytkownik kliknął przycisk &lt;br&gt;dodaj i zapytanie zostało&lt;br&gt;poprawnie wykonane?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="2510" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-152" value="Wyświetl:&lt;br&gt;Błąd dodawania dancyh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="2730" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-153" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="2840" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-155" value="Wypełnienie pustych pól do dodawania danych przez użytkownika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="2450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-158" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-156" target="mbberH21_pREZGGYshuY-157">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-156" value="Użytkownik postanawia usunąc danych wiersz z bazy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="2880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-157" value="Kliknięcie przycisku usuń obok danego wiersza" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="3010" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-159" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1490" y="3070" as="sourcePoint" />
+            <mxPoint x="1490" y="3150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-160" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1450" y="3150" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-161" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1450" y="3190" as="targetPoint" />
+            <mxPoint x="1330" y="3190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-162" value="Nie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="3150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-163" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="3190" as="targetPoint" />
+            <mxPoint x="1530" y="3190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-164" value="Tak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1570" y="3150" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-165" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="3190" as="sourcePoint" />
+            <mxPoint x="1330" y="3290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-166" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1649.8" y="3190" as="sourcePoint" />
+            <mxPoint x="1649.8" y="3290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-167" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbberH21_pREZGGYshuY-172">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1329.71" y="3410" as="targetPoint" />
+            <mxPoint x="1329.71" y="3350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-168" value="Usunięcie danych z bazy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1590" y="3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-169" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1650" y="3440" as="targetPoint" />
+            <mxPoint x="1649.83" y="3350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1650" y="3390" />
+              <mxPoint x="1649.83" y="3420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-170" value="Czy zapytanie zostało&lt;br&gt;poprawnie wykonane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="3080" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-171" value="Wyświetl:&lt;br&gt;Błąd usuwania danych" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="3290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-172" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="3400" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
