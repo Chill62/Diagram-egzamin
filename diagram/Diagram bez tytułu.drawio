@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.0">
   <diagram name="Strona-1" id="DCmV9VpIvqvDPdrRvZnc">
-    <mxGraphModel dx="1114" dy="650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="2228" dy="1300" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -89,31 +89,100 @@
         <mxCell id="mbberH21_pREZGGYshuY-35" value="Tak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="600" y="782" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mbberH21_pREZGGYshuY-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbberH21_pREZGGYshuY-38">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="820" as="sourcePoint" />
             <mxPoint x="360" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-38">
+        <mxCell id="mbberH21_pREZGGYshuY-39" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-38" target="mbberH21_pREZGGYshuY-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="1000" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-38" value="Wyświetl:&lt;div&gt;Błąd ładowania&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="300" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-40" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1000" width="40" height="40" as="geometry" />
+          <mxGeometry x="340" y="1040" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;" edge="1" parent="1">
+        <mxCell id="mbberH21_pREZGGYshuY-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbberH21_pREZGGYshuY-42">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="680" y="820" as="sourcePoint" />
             <mxPoint x="680" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-42" value="Wyświetl formularz tabeli oraz testu użytkownika" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-49" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-44" target="mbberH21_pREZGGYshuY-50">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1195" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-44" value="użytkownik klika w link admin panel" style="rounded=1;whiteSpace=wrap;html=1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-45" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-42" target="mbberH21_pREZGGYshuY-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="1000" as="targetPoint" />
+            <mxPoint x="370" y="950" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-50" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-51" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1230" as="targetPoint" />
+            <mxPoint x="520" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-52" value="Nie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="550" y="1190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-53" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="1230" as="targetPoint" />
+            <mxPoint x="720" y="1230" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-54" value="Tak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-55" value="Czy są uprawnienia&lt;br&gt;&amp;nbsp;admina" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="690" y="1110" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-56" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="mbberH21_pREZGGYshuY-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1230" as="sourcePoint" />
+            <mxPoint x="520" y="1290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-57" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-58" target="mbberH21_pREZGGYshuY-59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="1410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-58" value="Wyświetl:&lt;div&gt;Błąd uprawnień&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-59" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1450" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-60" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="1230" as="sourcePoint" />
+            <mxPoint x="840" y="1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-62" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-61">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840.1428571428571" y="1530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mbberH21_pREZGGYshuY-61" value="Przekierowanie do panelu admina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
