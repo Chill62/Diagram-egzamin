@@ -1058,76 +1058,29 @@
         <mxCell id="mbberH21_pREZGGYshuY-382" value="Wysłanie emaila , aby potwierdzić email użytkownika" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="3060" y="802" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-383" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" target="mbberH21_pREZGGYshuY-385">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3120" y="862" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-384" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-385">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3260" y="962" as="targetPoint" />
-            <mxPoint x="3170" y="961.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-385" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3080" y="922" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-386" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3260" y="1062" as="targetPoint" />
-            <mxPoint x="3260" y="962" as="sourcePoint" />
+            <mxPoint x="3120" y="962" as="targetPoint" />
+            <mxPoint x="3120" y="862" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-387" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;endArrow=none;endFill=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-385">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2980" y="962" as="targetPoint" />
-            <mxPoint x="3130" y="1012" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-388" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2980" y="1062" as="targetPoint" />
-            <mxPoint x="2980" y="962" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-389" value="Czy konto zostało&amp;nbsp;&lt;br&gt;zweryfikowane" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3135" y="862" width="150" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-390" value="Tak" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3180" y="922" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-391" value="Nie" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="3010" y="922" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-392" value="&lt;div style=&quot;&quot;&gt;Użytkownik nie może&amp;nbsp;&lt;br&gt;zalogować się do&lt;br&gt;konta&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="1062" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-398" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-393" target="mbberH21_pREZGGYshuY-397">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-393" value="&lt;div style=&quot;&quot;&gt;Stan werfyikacji konta jest potwierdzony&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;glass=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1062" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-394" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-392" target="mbberH21_pREZGGYshuY-396">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2980" y="1180" as="sourcePoint" />
-            <mxPoint x="3000" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-396" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
-          <mxGeometry x="2960" y="1182" width="40" height="40" as="geometry" />
+          <mxGeometry x="3060" y="962" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-397" value="Użytkownik ma mozliwość zalogowania się" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3200" y="1191" width="120" height="60" as="geometry" />
+          <mxGeometry x="3060" y="1091" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mbberH21_pREZGGYshuY-401" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-397" target="mbberH21_pREZGGYshuY-400">
+        <mxCell id="mbberH21_pREZGGYshuY-401" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="mbberH21_pREZGGYshuY-397">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3260.333333333334" y="1360.0000000000002" as="targetPoint" />
-            <mxPoint x="3260" y="1270" as="sourcePoint" />
+            <mxPoint x="3120" y="1202" as="targetPoint" />
+            <mxPoint x="3120" y="1170" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-400" value="" style="ellipse;html=1;shape=endState;" vertex="1" parent="1">
-          <mxGeometry x="3245" y="1302" width="30" height="30" as="geometry" />
+          <mxGeometry x="3105" y="1200" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mbberH21_pREZGGYshuY-408" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
